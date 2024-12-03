@@ -14,7 +14,7 @@ export default function Contact() {
                                 Fill in the form to start a conversation
                             </p>
 
-                            <div className="flex items-center mt-8 text-gray-600">
+                            <div className="flex items-center mt-8 text-gray-800">
                                 <svg
                                     fill="none"
                                     stroke="currentColor"
